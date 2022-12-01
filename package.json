@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "live-server html/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floriansp40/dnt2023_cf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Floriansp40/dnt2023_cf/issues"
+  },
+  "homepage": "https://github.com/Floriansp40/dnt2023_cf#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
